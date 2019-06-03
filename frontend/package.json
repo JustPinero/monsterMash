@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-react-app": "^3.0.1",
+    "npm": "^6.9.0",
+    "react": "^16.8.6",
+    "react-redux": "^7.0.3"
+  }
+}
