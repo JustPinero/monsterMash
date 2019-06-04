@@ -1,0 +1,49 @@
+.Login-header {
+  color: red;
+  font-size: 40px;
+  background-color: #0c0e09;
+}
+.Login-Img {
+  height: 300px;
+  width:300px;
+}
+
+.Login-form {
+  width: 100%;
+  height: 50%;
+  background-color: #0c0e09;
+  border-color: #0c0e09;
+  border-width: thick;
+}
+
+
+.Login-field {
+  color: #0c0e09;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.Login-field-label {
+  color: red;
+}
+
+.Login-field-input {
+}
+.Login-button-box {
+  display: flex;
+  justify-content: space-around;
+}
+.Login-button {
+  color: black;
+  height: 100%;
+  background-color: red;
+  border-radius: 15%;
+  height: 30px;
+  width: 100px;
+}
+.Login-button-label {
+  color: black;
+  font-weight: bold;
+  font: arial;
+}

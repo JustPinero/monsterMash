@@ -1,6 +1,7 @@
 import React from 'react';
-import LoginField from './LoginField';
-import Button from './Button';
+import FormField from '../Utility/FormField';
+import Button from '../Utility/Button';
+import './Login.css';
 
 export default class LoginForm extends React.Component{
   constructor(props) {
@@ -19,15 +20,18 @@ export default class LoginForm extends React.Component{
 
     }
     render(){
+      const signUp = () => this.history.push('/signup')  
       debugger
       return(
-        <div>
+        <div className="Login-form">
           <form>
-            {LoginField("Username", this.state.Username, this.handleChange)}
-            {LoginField("Password", this.state.Password, this.handleChange)}
+            {FormField("Login-field", "Login-field-label", "Username", this.state.Username, this.handleChange, "Login-field-input")}
+            {FormField("Login-field", "Login-field-label", "Password", this.state.Password, this.handleChange, "Login-field-input")}
           </form>
-            {Button("LoginButton", this.handleSubmit, "LOGIN")}
-            {Button("LoginButton", this.handleSubmit, "SIGN UP")}
+          <div className= "Login-button-box">
+            {Button("Login-button", this.handleSubmit, "LOGIN", "Login-button-label")}
+            {Button("Login-button", signUp, "SIGN UP", "Login-button-label")}
+          </div>
         </div>
     )
   }
