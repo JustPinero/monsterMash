@@ -1,7 +1,9 @@
 import React from 'react';
 
+import FormField from '../Utility/FormField';
 
-export default class LoginForm extends React.Component{
+
+export default class SignUpForm extends React.Component{
   constructor(props) {
     super(props);
     this.state = {
@@ -26,7 +28,7 @@ export default class LoginForm extends React.Component{
     render(){
       return(
         <div>
-          
+          {FormField("Signup-form-field ", "Signup-form-field-label", "Email", this.state.Email, this.handleChange, "Signup-form-field-input")}
         </div>
     )
   }
