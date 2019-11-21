@@ -12,15 +12,20 @@ export default class LoginForm extends React.Component{
     };
     this.handleChange = this.handleChange.bind(this);
     this.handleSubmit = this.handleSubmit.bind(this);
+    this.handleButtonClick = this.handleButtonClick.bind(this);
     }
-      handleChange(event, field) {
-        this.setState({[field]: event.target.value});
+    handleChange(event, field) {
+      this.setState({[field]: event.target.value});
+    }
+    handleButtonClick(destination){
+      if(this.history){
+        this.history.push(destination)
+      };
     }
       handleSubmit(event) {
-
-    }
+      }
     render(){
-      const signUp = () => this.history.push('/signup')  
+      const signUp = this.handleButtonClick("/signup")
       debugger
       return(
         <div className="Login-form">

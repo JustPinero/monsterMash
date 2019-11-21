@@ -1,8 +1,13 @@
 {
-  "dependencies": {
-    "create-react-app": "^3.0.1",
-    "npm": "^6.9.0",
-    "react": "^16.8.6",
-    "react-redux": "^7.0.3"
-  }
+  "name": "monster-mash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
