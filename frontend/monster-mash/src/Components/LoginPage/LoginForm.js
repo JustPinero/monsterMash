@@ -1,6 +1,7 @@
 import React from 'react';
 import FormField from '../Utility/FormField';
 import Button from '../Utility/Button';
+import {Link} from "react-router-dom";
 import './Login.css';
 
 export default class LoginForm extends React.Component{
@@ -34,7 +35,7 @@ export default class LoginForm extends React.Component{
             {FormField("Login-field", "Login-field-label", "Password", this.state.Password, this.handleChange, "Login-field-input")}
           </form>
           <div className= "Login-button-box">
-            {Button("Login-button", this.handleSubmit, "LOGIN", "Login-button-label")}
+            <Link to="/home">Login</Link>
             {Button("Login-button", signUp, "SIGN UP", "Login-button-label")}
           </div>
         </div>

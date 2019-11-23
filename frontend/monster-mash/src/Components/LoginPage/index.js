@@ -12,7 +12,7 @@ export default class LoginPage extends React.Component {
     return(
       <div>
         <LoginHeader/>
-        <img className='Login-Img' src={process.env.PUBLIC_URL + '/SplashPage.jpg'} />
+          <img className='Login-Img' src={process.env.PUBLIC_URL + '/SplashPage.jpg'} />
         <LoginForm/>
       </div>
     )
