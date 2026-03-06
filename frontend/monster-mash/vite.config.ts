@@ -28,7 +28,7 @@ export default defineConfig(({ mode }) => {
           changeOrigin: true,
           rewrite: (path) => path.replace(/^\/api\/tmdb/, ''),
           configure: (proxy) => {
-            proxy.on('proxyReq', (proxyReq, req) => {
+            proxy.on('proxyReq', (proxyReq, _req) => {
               // Inject api_key as query parameter
               const url = new URL(proxyReq.path, 'http://localhost')
               url.searchParams.set('api_key', env.TMDB_API_KEY ?? '')

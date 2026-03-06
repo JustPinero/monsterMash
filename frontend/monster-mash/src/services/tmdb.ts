@@ -19,7 +19,7 @@ export async function searchMovie(query: string): Promise<TMDBMovie[]> {
 }
 
 export async function getMovie(movieId: number): Promise<TMDBMovie | null> {
-  const res = await fetch(`${TMDB_PROXY}/movie/${movieId}`)
+  const res = await fetch(`${TMDB_PROXY}/movie?id=${movieId}`)
   if (!res.ok) return null
 
   return res.json()

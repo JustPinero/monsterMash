@@ -22,9 +22,11 @@ export const handlers = [
     })
   }),
 
-  http.get('/api/tmdb/movie/:id', ({ params }) => {
+  http.get('/api/tmdb/movie', ({ request }) => {
+    const url = new URL(request.url, 'http://localhost')
+    const id = url.searchParams.get('id')
     return HttpResponse.json({
-      id: Number(params.id),
+      id: Number(id),
       title: 'Test Movie',
       poster_path: '/test-poster.jpg',
       backdrop_path: '/test-backdrop.jpg',

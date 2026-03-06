@@ -51,7 +51,7 @@ describe('getMovie', () => {
 
   it('returns null on non-OK response', async () => {
     server.use(
-      http.get('/api/tmdb/movie/:id', () => {
+      http.get('/api/tmdb/movie', () => {
         return new HttpResponse(null, { status: 404 })
       })
     )
