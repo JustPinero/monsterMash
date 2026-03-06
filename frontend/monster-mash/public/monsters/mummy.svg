@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Head shape -->
+  <ellipse cx="150" cy="100" rx="45" ry="55" fill="#e8e0d0" opacity="0.35"/>
+  <!-- Bandage wrapping on head -->
+  <path d="M105 75 Q150 68 195 75" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.5"/>
+  <path d="M107 88 Q150 82 193 88" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.45"/>
+  <path d="M108 101 Q150 96 192 101" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.5"/>
+  <path d="M110 114 Q150 110 190 114" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.45"/>
+  <path d="M112 127 Q150 124 188 127" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.5"/>
+  <path d="M118 140 Q150 137 182 140" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.45"/>
+  <!-- Eye holes in bandages -->
+  <ellipse cx="132" cy="95" rx="10" ry="8" fill="#1a1c17"/>
+  <ellipse cx="168" cy="95" rx="10" ry="8" fill="#1a1c17"/>
+  <!-- Glowing eyes -->
+  <circle cx="132" cy="95" r="4" fill="#cc0000" opacity="0.7"/>
+  <circle cx="168" cy="95" r="4" fill="#cc0000" opacity="0.7"/>
+  <!-- Mouth gap in bandages -->
+  <ellipse cx="150" cy="130" rx="12" ry="6" fill="#1a1c17"/>
+  <!-- Loose hanging bandage -->
+  <path d="M180 140 Q190 155 185 180 Q178 200 182 220" stroke="#e8e0d0" stroke-width="4" fill="none" opacity="0.4"/>
+  <path d="M110 145 Q100 160 105 185 Q108 200 102 215" stroke="#e8e0d0" stroke-width="4" fill="none" opacity="0.35"/>
+  <!-- Body -->
+  <rect x="110" y="160" width="80" height="160" rx="8" fill="#e8e0d0" opacity="0.2"/>
+  <!-- Body bandage wrapping -->
+  <path d="M110 175 Q150 170 190 175" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M110 192 Q150 188 190 192" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.35"/>
+  <path d="M110 209 Q150 205 190 209" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M110 226 Q150 222 190 226" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.35"/>
+  <path d="M110 243 Q150 239 190 243" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M110 260 Q150 256 190 260" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.35"/>
+  <path d="M110 277 Q150 273 190 277" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M110 294 Q150 290 190 294" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.35"/>
+  <path d="M110 311 Q150 307 190 311" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <!-- Arms with trailing bandages -->
+  <path d="M110 190 L75 220 L70 260" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.3"/>
+  <path d="M190 190 L225 220 L230 260" stroke="#e8e0d0" stroke-width="6" fill="none" opacity="0.3"/>
+  <!-- Trailing loose wraps -->
+  <path d="M70 260 Q65 275 70 285" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.25"/>
+  <path d="M230 260 Q235 275 230 285" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.25"/>
+  <!-- Dust particles -->
+  <circle cx="80" cy="310" r="1.5" fill="#e8e0d0" opacity="0.2"/>
+  <circle cx="220" cy="300" r="1" fill="#e8e0d0" opacity="0.15"/>
+  <circle cx="95" cy="330" r="1" fill="#e8e0d0" opacity="0.2"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="18" letter-spacing="2">MUMMY</text>
+</svg>

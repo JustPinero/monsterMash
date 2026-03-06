@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Hockey mask -->
+  <path d="M105 70 Q100 90 100 130 Q105 180 130 195 Q140 200 150 202 Q160 200 170 195 Q195 180 200 130 Q200 90 195 70 Q175 50 150 48 Q125 50 105 70" fill="#e8e0d0" opacity="0.85"/>
+  <!-- Mask top curve -->
+  <path d="M105 75 Q150 55 195 75" stroke="#e8e0d0" stroke-width="2" fill="none"/>
+  <!-- Forehead chevron -->
+  <path d="M130 75 L150 65 L170 75" stroke="#cc0000" stroke-width="2.5" fill="none"/>
+  <!-- Eye holes - triangular -->
+  <polygon points="122,110 138,100 138,120" fill="#1a1c17"/>
+  <polygon points="178,110 162,100 162,120" fill="#1a1c17"/>
+  <!-- Red eye glow -->
+  <circle cx="132" cy="110" r="3" fill="#cc0000" opacity="0.6"/>
+  <circle cx="168" cy="110" r="3" fill="#cc0000" opacity="0.6"/>
+  <!-- Nose holes -->
+  <circle cx="145" cy="140" r="4" fill="#1a1c17"/>
+  <circle cx="155" cy="140" r="4" fill="#1a1c17"/>
+  <!-- Mask ventilation lines -->
+  <path d="M120 155 Q135 145 145 155" stroke="#1a1c17" stroke-width="1.5" fill="none"/>
+  <path d="M155 155 Q165 145 180 155" stroke="#1a1c17" stroke-width="1.5" fill="none"/>
+  <path d="M125 165 Q137 158 148 168" stroke="#1a1c17" stroke-width="1.5" fill="none"/>
+  <path d="M152 168 Q163 158 175 165" stroke="#1a1c17" stroke-width="1.5" fill="none"/>
+  <path d="M130 178 Q140 172 150 180" stroke="#1a1c17" stroke-width="1.5" fill="none"/>
+  <path d="M150 180 Q160 172 170 178" stroke="#1a1c17" stroke-width="1.5" fill="none"/>
+  <!-- Blood stain on mask -->
+  <path d="M170 90 Q175 100 172 115 Q170 105 168 100" fill="#cc0000" opacity="0.7"/>
+  <!-- Center line -->
+  <line x1="150" y1="65" x2="150" y2="195" stroke="#1a1c17" stroke-width="1" opacity="0.4"/>
+  <!-- Body -->
+  <rect x="100" y="210" width="100" height="120" rx="5" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Machete -->
+  <line x1="60" y1="180" x2="60" y2="340" stroke="#e8e0d0" stroke-width="4"/>
+  <path d="M56 180 L64 180 L62 160 Q60 150 58 160 Z" fill="#e8e0d0" opacity="0.8"/>
+  <!-- Machete handle -->
+  <rect x="55" y="300" width="10" height="40" rx="2" fill="#cc0000" opacity="0.5"/>
+  <!-- Blood on machete -->
+  <path d="M60 180 Q65 190 62 200" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.6"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="18" letter-spacing="2">JASON</text>
+</svg>

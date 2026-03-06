@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Cape -->
+  <path d="M150 60 L60 320 L110 280 L150 340 L190 280 L240 320 Z" fill="#cc0000" opacity="0.8"/>
+  <!-- Head -->
+  <ellipse cx="150" cy="100" rx="40" ry="50" fill="#e8e0d0"/>
+  <!-- Hair widow's peak -->
+  <path d="M110 80 L150 60 L190 80 L190 70 Q150 40 110 70 Z" fill="#1a1c17"/>
+  <!-- Eyes -->
+  <ellipse cx="135" cy="95" rx="6" ry="4" fill="#cc0000"/>
+  <ellipse cx="165" cy="95" rx="6" ry="4" fill="#cc0000"/>
+  <!-- Mouth with fangs -->
+  <path d="M130 120 Q150 130 170 120" stroke="#cc0000" stroke-width="2" fill="none"/>
+  <polygon points="138,120 142,133 146,120" fill="#e8e0d0"/>
+  <polygon points="154,120 158,133 162,120" fill="#e8e0d0"/>
+  <!-- Cape collar -->
+  <path d="M110 130 L100 100 L120 130" fill="#cc0000"/>
+  <path d="M190 130 L200 100 L180 130" fill="#cc0000"/>
+  <!-- Body -->
+  <rect x="120" y="140" width="60" height="100" rx="5" fill="#1a1c17" stroke="#cc0000" stroke-width="2"/>
+  <!-- Bow tie -->
+  <polygon points="140,145 150,155 160,145 160,165 150,155 140,165" fill="#e8e0d0"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="18" letter-spacing="2">DRACULA</text>
+</svg>

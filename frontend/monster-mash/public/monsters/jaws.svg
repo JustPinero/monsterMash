@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Ocean water -->
+  <rect x="0" y="180" width="300" height="220" fill="#61dafb" opacity="0.08"/>
+  <!-- Waves -->
+  <path d="M0 180 Q30 172 60 180 Q90 188 120 180 Q150 172 180 180 Q210 188 240 180 Q270 172 300 180" stroke="#61dafb" stroke-width="2" fill="none" opacity="0.3"/>
+  <path d="M0 190 Q30 182 60 190 Q90 198 120 190 Q150 182 180 190 Q210 198 240 190 Q270 182 300 190" stroke="#61dafb" stroke-width="1.5" fill="none" opacity="0.2"/>
+  <!-- Dorsal fin above water -->
+  <path d="M140 120 L155 165 L170 175 L140 178 Z" fill="#e8e0d0" opacity="0.6"/>
+  <!-- Fin highlight -->
+  <path d="M145 130 L155 168" stroke="#e8e0d0" stroke-width="1" opacity="0.3"/>
+  <!-- Shark body under water - silhouette -->
+  <path d="M60 250 Q40 240 35 230 Q40 220 70 220 Q100 210 140 200 L170 200 Q210 205 240 220 Q260 230 265 240 Q260 255 240 260 Q200 270 150 268 Q100 265 60 250" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Open jaws -->
+  <path d="M50 230 Q40 220 50 210 L130 200 L130 220 Z" fill="#e8e0d0" opacity="0.2"/>
+  <path d="M50 250 Q40 260 50 270 L130 268 L130 250 Z" fill="#e8e0d0" opacity="0.2"/>
+  <!-- Upper teeth -->
+  <polygon points="55,215 60,228 65,215" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="70,212 75,227 80,212" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="85,210 90,226 95,210" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="100,208 105,225 110,208" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="115,206 120,224 125,206" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Lower teeth -->
+  <polygon points="58,255 63,242 68,255" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="73,257 78,243 83,257" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="88,259 93,244 98,259" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="103,260 108,245 113,260" fill="#e8e0d0" opacity="0.5"/>
+  <polygon points="118,261 123,246 128,261" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Eye -->
+  <circle cx="40" cy="225" r="5" fill="#1a1c17"/>
+  <circle cx="40" cy="225" r="2.5" fill="#cc0000" opacity="0.6"/>
+  <!-- Tail -->
+  <path d="M240 230 Q260 220 275 200 Q270 230 280 250 Q260 240 240 250" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Blood in water -->
+  <circle cx="100" cy="235" r="15" fill="#cc0000" opacity="0.15"/>
+  <circle cx="85" cy="240" r="8" fill="#cc0000" opacity="0.1"/>
+  <circle cx="115" cy="245" r="10" fill="#cc0000" opacity="0.08"/>
+  <!-- Swimmer above (legs dangling) -->
+  <line x1="155" y1="183" x2="150" y2="210" stroke="#e8e0d0" stroke-width="2" opacity="0.3"/>
+  <line x1="165" y1="183" x2="170" y2="210" stroke="#e8e0d0" stroke-width="2" opacity="0.3"/>
+  <!-- Bubbles -->
+  <circle cx="80" cy="290" r="3" fill="none" stroke="#61dafb" stroke-width="1" opacity="0.2"/>
+  <circle cx="90" cy="300" r="2" fill="none" stroke="#61dafb" stroke-width="1" opacity="0.15"/>
+  <circle cx="200" cy="280" r="4" fill="none" stroke="#61dafb" stroke-width="1" opacity="0.15"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="22" font-weight="bold" letter-spacing="3">JAWS</text>
+</svg>

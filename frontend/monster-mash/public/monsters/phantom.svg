@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Top hat -->
+  <rect x="118" y="30" width="64" height="45" rx="3" fill="#1a1c17" stroke="#e8e0d0" stroke-width="2"/>
+  <rect x="105" y="72" width="90" height="10" rx="4" fill="#1a1c17" stroke="#e8e0d0" stroke-width="2"/>
+  <!-- Hat band -->
+  <rect x="118" y="60" width="64" height="8" fill="#cc0000" opacity="0.4"/>
+  <!-- Face - half visible -->
+  <path d="M110 82 Q108 100 110 140 Q115 170 135 185 Q140 188 150 190 Q160 188 165 185 Q185 170 190 140 Q192 100 190 82" fill="#e8e0d0" opacity="0.5"/>
+  <!-- The Mask - covering right half -->
+  <path d="M150 82 Q152 85 155 82 L190 82 Q192 100 190 140 Q185 170 165 185 Q160 188 155 190 L150 190 L150 82" fill="#e8e0d0" opacity="0.85"/>
+  <!-- Mask details -->
+  <path d="M155 90 Q170 88 185 92" stroke="#e8e0d0" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <!-- Exposed side - scarred -->
+  <path d="M115 95 Q120 100 118 110" stroke="#cc0000" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M125 90 Q128 100 126 115" stroke="#cc0000" stroke-width="1" fill="none" opacity="0.4"/>
+  <!-- Eyes -->
+  <ellipse cx="133" cy="115" rx="7" ry="5" fill="#1a1c17"/>
+  <circle cx="133" cy="115" r="3" fill="#cc0000" opacity="0.6"/>
+  <!-- Mask eye hole -->
+  <ellipse cx="167" cy="115" rx="7" ry="5" fill="#1a1c17"/>
+  <circle cx="167" cy="115" r="3" fill="#e8e0d0" opacity="0.4"/>
+  <!-- Nose -->
+  <path d="M148 125 L146 138 L150 140 L154 138 L152 125" fill="#e8e0d0" opacity="0.4"/>
+  <!-- Mouth - stern -->
+  <path d="M135 155 Q150 160 165 155" stroke="#1a1c17" stroke-width="2" fill="none"/>
+  <!-- Cape/cloak -->
+  <path d="M80 190 Q90 180 115 188 L150 195 L185 188 Q210 180 220 190 Q235 210 240 340 L60 340 Q65 210 80 190" fill="#1a1c17" stroke="#cc0000" stroke-width="1.5"/>
+  <!-- Cape inside - red -->
+  <path d="M90 200 L95 340 L205 340 L210 200 Q185 195 150 200 Q115 195 90 200" fill="#cc0000" opacity="0.15"/>
+  <!-- Cape collar - high -->
+  <path d="M80 190 L100 170 L115 188" fill="#1a1c17" stroke="#cc0000" stroke-width="1"/>
+  <path d="M220 190 L200 170 L185 188" fill="#1a1c17" stroke="#cc0000" stroke-width="1"/>
+  <!-- Rose -->
+  <circle cx="150" cy="210" r="8" fill="#cc0000" opacity="0.5"/>
+  <path d="M148 210 Q150 205 152 210 Q154 215 150 218 Q146 215 148 210" fill="#cc0000" opacity="0.7"/>
+  <!-- Music notes floating -->
+  <text x="220" y="130" fill="#e8e0d0" font-size="20" opacity="0.2">&#9834;</text>
+  <text x="240" y="110" fill="#e8e0d0" font-size="16" opacity="0.15">&#9835;</text>
+  <text x="60" y="140" fill="#e8e0d0" font-size="18" opacity="0.15">&#9833;</text>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="18" font-style="italic" letter-spacing="2">PHANTOM</text>
+</svg>

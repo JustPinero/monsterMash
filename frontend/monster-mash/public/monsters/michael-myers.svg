@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- White mask - expressionless -->
+  <path d="M108 60 Q105 80 105 130 Q108 180 130 195 Q140 200 150 202 Q160 200 170 195 Q192 180 195 130 Q195 80 192 60 Q175 42 150 40 Q125 42 108 60" fill="#e8e0d0" opacity="0.75"/>
+  <!-- Hair - dark, messy -->
+  <path d="M100 80 Q95 60 105 50 Q120 35 150 32 Q180 35 195 50 Q205 60 200 80" fill="#1a1c17" stroke="#e8e0d0" stroke-width="0.5" opacity="0.9"/>
+  <path d="M100 80 Q92 75 95 90 Q95 100 98 105" stroke="#1a1c17" stroke-width="8"/>
+  <path d="M200 80 Q208 75 205 90 Q205 100 202 105" stroke="#1a1c17" stroke-width="8"/>
+  <!-- Empty dark eyes -->
+  <ellipse cx="130" cy="115" rx="10" ry="8" fill="#1a1c17"/>
+  <ellipse cx="170" cy="115" rx="10" ry="8" fill="#1a1c17"/>
+  <!-- Subtle dark pupil glow -->
+  <circle cx="130" cy="115" r="3" fill="#cc0000" opacity="0.2"/>
+  <circle cx="170" cy="115" r="3" fill="#cc0000" opacity="0.2"/>
+  <!-- Nose -->
+  <path d="M147 130 L143 148 L150 150 L157 148 L153 130" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Expressionless mouth -->
+  <line x1="135" y1="170" x2="165" y2="170" stroke="#1a1c17" stroke-width="2.5"/>
+  <!-- Coveralls / jumpsuit -->
+  <rect x="100" y="210" width="100" height="130" rx="5" fill="#e8e0d0" opacity="0.12"/>
+  <line x1="150" y1="210" x2="150" y2="340" stroke="#e8e0d0" stroke-width="0.8" opacity="0.2"/>
+  <!-- Collar -->
+  <path d="M115 210 L150 225 L185 210" stroke="#e8e0d0" stroke-width="1.5" fill="none" opacity="0.3"/>
+  <!-- Kitchen knife -->
+  <path d="M230 150 L235 155 L232 310 L228 310 L225 155 Z" fill="#e8e0d0" opacity="0.7"/>
+  <!-- Knife handle -->
+  <rect x="224" y="310" width="12" height="30" rx="2" fill="#1a1c17" stroke="#e8e0d0" stroke-width="1"/>
+  <!-- Blood drip -->
+  <circle cx="230" cy="320" r="2" fill="#cc0000" opacity="0.6"/>
+  <path d="M230 150 Q233 160 231 170" stroke="#cc0000" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="14" letter-spacing="2">MICHAEL MYERS</text>
+</svg>

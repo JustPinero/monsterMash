@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Upper wings -->
+  <path d="M150 160 Q100 120 50 80 Q30 100 40 140 Q50 170 80 190 Q110 200 150 195" fill="#cc0000" opacity="0.4"/>
+  <path d="M150 160 Q200 120 250 80 Q270 100 260 140 Q250 170 220 190 Q190 200 150 195" fill="#cc0000" opacity="0.4"/>
+  <!-- Wing patterns - upper -->
+  <circle cx="90" cy="130" r="15" fill="#e8e0d0" opacity="0.2"/>
+  <circle cx="90" cy="130" r="8" fill="#61dafb" opacity="0.15"/>
+  <circle cx="210" cy="130" r="15" fill="#e8e0d0" opacity="0.2"/>
+  <circle cx="210" cy="130" r="8" fill="#61dafb" opacity="0.15"/>
+  <circle cx="120" cy="160" r="10" fill="#e8e0d0" opacity="0.15"/>
+  <circle cx="180" cy="160" r="10" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Wing veins -->
+  <path d="M150 160 L80 110" stroke="#cc0000" stroke-width="1" fill="none" opacity="0.4"/>
+  <path d="M150 160 L60 130" stroke="#cc0000" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M150 160 L220 110" stroke="#cc0000" stroke-width="1" fill="none" opacity="0.4"/>
+  <path d="M150 160 L240 130" stroke="#cc0000" stroke-width="1" fill="none" opacity="0.3"/>
+  <!-- Lower wings -->
+  <path d="M140 200 Q100 220 60 260 Q55 280 70 290 Q90 295 120 280 Q140 260 145 230" fill="#cc0000" opacity="0.35"/>
+  <path d="M160 200 Q200 220 240 260 Q245 280 230 290 Q210 295 180 280 Q160 260 155 230" fill="#cc0000" opacity="0.35"/>
+  <!-- Lower wing patterns -->
+  <circle cx="95" cy="260" r="10" fill="#e8e0d0" opacity="0.15"/>
+  <circle cx="205" cy="260" r="10" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Body - fuzzy caterpillar-like -->
+  <ellipse cx="150" cy="160" rx="15" ry="10" fill="#e8e0d0" opacity="0.5"/>
+  <ellipse cx="150" cy="180" rx="13" ry="8" fill="#e8e0d0" opacity="0.45"/>
+  <ellipse cx="150" cy="195" rx="12" ry="7" fill="#e8e0d0" opacity="0.4"/>
+  <ellipse cx="150" cy="208" rx="11" ry="6" fill="#e8e0d0" opacity="0.35"/>
+  <ellipse cx="150" cy="220" rx="10" ry="6" fill="#e8e0d0" opacity="0.3"/>
+  <ellipse cx="150" cy="232" rx="9" ry="5" fill="#e8e0d0" opacity="0.25"/>
+  <!-- Fur texture -->
+  <path d="M135 155 Q132 150 135 148" stroke="#e8e0d0" stroke-width="1" opacity="0.3"/>
+  <path d="M165 155 Q168 150 165 148" stroke="#e8e0d0" stroke-width="1" opacity="0.3"/>
+  <!-- Head -->
+  <circle cx="150" cy="145" r="12" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Antennae -->
+  <path d="M145 135 Q130 100 120 80" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <circle cx="120" cy="78" r="4" fill="#61dafb" opacity="0.4"/>
+  <path d="M155 135 Q170 100 180 80" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <circle cx="180" cy="78" r="4" fill="#61dafb" opacity="0.4"/>
+  <!-- Eyes -->
+  <circle cx="145" cy="143" r="4" fill="#61dafb" opacity="0.5"/>
+  <circle cx="155" cy="143" r="4" fill="#61dafb" opacity="0.5"/>
+  <circle cx="145" cy="143" r="2" fill="#1a1c17"/>
+  <circle cx="155" cy="143" r="2" fill="#1a1c17"/>
+  <!-- Sparkle/dust -->
+  <circle cx="70" cy="170" r="1.5" fill="#e8e0d0" opacity="0.3"/>
+  <circle cx="230" cy="175" r="1.5" fill="#e8e0d0" opacity="0.3"/>
+  <circle cx="100" cy="300" r="1" fill="#e8e0d0" opacity="0.2"/>
+  <circle cx="200" cy="305" r="1" fill="#e8e0d0" opacity="0.2"/>
+  <text x="150" y="380" text-anchor="middle" fill="#61dafb" font-family="serif" font-size="18" letter-spacing="2">MOTHRA</text>
+</svg>

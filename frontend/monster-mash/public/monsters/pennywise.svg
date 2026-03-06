@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Balloon string -->
+  <path d="M220 50 Q215 120 210 180 Q205 200 200 210" stroke="#cc0000" stroke-width="1.5" fill="none"/>
+  <!-- Red balloon -->
+  <ellipse cx="222" cy="42" rx="18" ry="22" fill="#cc0000"/>
+  <path d="M220 63 L224 68 L218 68 Z" fill="#cc0000"/>
+  <!-- Balloon shine -->
+  <ellipse cx="216" cy="35" rx="4" ry="6" fill="#e8e0d0" opacity="0.2"/>
+  <!-- Wild hair -->
+  <path d="M85 120 Q70 80 90 70 Q100 60 95 90" fill="#cc0000" opacity="0.7"/>
+  <path d="M95 110 Q80 65 100 60 Q110 55 105 85" fill="#cc0000" opacity="0.7"/>
+  <path d="M205 110 Q220 65 200 60 Q190 55 195 85" fill="#cc0000" opacity="0.7"/>
+  <path d="M215 120 Q230 80 210 70 Q200 60 205 90" fill="#cc0000" opacity="0.7"/>
+  <!-- Face - white -->
+  <ellipse cx="150" cy="130" rx="55" ry="60" fill="#e8e0d0" opacity="0.85"/>
+  <!-- Forehead lines -->
+  <path d="M115 100 Q150 110 185 100" stroke="#cc0000" stroke-width="1.5" fill="none"/>
+  <!-- Eye paint - red lines going up -->
+  <path d="M120 115 L125 95" stroke="#cc0000" stroke-width="4"/>
+  <path d="M180 115 L175 95" stroke="#cc0000" stroke-width="4"/>
+  <!-- Eyes -->
+  <ellipse cx="130" cy="120" rx="10" ry="8" fill="#1a1c17"/>
+  <ellipse cx="170" cy="120" rx="10" ry="8" fill="#1a1c17"/>
+  <circle cx="130" cy="120" r="4" fill="#cc0000"/>
+  <circle cx="170" cy="120" r="4" fill="#cc0000"/>
+  <!-- Nose -->
+  <circle cx="150" cy="140" r="8" fill="#cc0000"/>
+  <circle cx="148" cy="138" r="2" fill="#e8e0d0" opacity="0.3"/>
+  <!-- Mouth paint - red extending beyond lips -->
+  <path d="M105 155 Q115 150 125 155" stroke="#cc0000" stroke-width="3" fill="#cc0000"/>
+  <path d="M175 155 Q185 150 195 155" stroke="#cc0000" stroke-width="3" fill="#cc0000"/>
+  <!-- Smile -->
+  <path d="M115 155 Q150 185 185 155" stroke="#cc0000" stroke-width="3" fill="none"/>
+  <!-- Teeth -->
+  <rect x="135" y="158" width="6" height="8" fill="#e8e0d0"/>
+  <rect x="143" y="158" width="6" height="10" fill="#e8e0d0"/>
+  <rect x="151" y="158" width="6" height="10" fill="#e8e0d0"/>
+  <rect x="159" y="158" width="6" height="8" fill="#e8e0d0"/>
+  <!-- Ruffled collar -->
+  <path d="M90 190 Q100 180 110 195 Q120 180 130 195 Q140 180 150 195 Q160 180 170 195 Q180 180 190 195 Q200 180 210 190" stroke="#e8e0d0" stroke-width="3" fill="none"/>
+  <path d="M85 200 Q95 188 108 203 Q118 188 130 203 Q140 188 150 203 Q160 188 170 203 Q182 188 192 203 Q202 188 215 200" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.6"/>
+  <!-- Body -->
+  <path d="M100 210 Q90 270 85 330 L215 330 Q210 270 200 210 Z" fill="#e8e0d0" opacity="0.2"/>
+  <!-- Pom poms -->
+  <circle cx="150" cy="230" r="6" fill="#cc0000"/>
+  <circle cx="150" cy="260" r="6" fill="#cc0000"/>
+  <circle cx="150" cy="290" r="6" fill="#cc0000"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" letter-spacing="2">PENNYWISE</text>
+</svg>

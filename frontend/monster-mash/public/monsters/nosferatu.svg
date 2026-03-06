@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Shadow on wall -->
+  <path d="M200 50 Q220 40 240 60 Q260 80 255 130 L250 140 Q260 150 255 170 L240 200 Q250 210 245 240 L200 340" fill="#e8e0d0" opacity="0.06"/>
+  <!-- Bald elongated head -->
+  <path d="M115 70 Q110 50 130 35 Q150 28 170 35 Q190 50 185 70 L188 150 Q185 175 150 180 Q115 175 112 150 Z" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Pointed ears -->
+  <polygon points="108,90 80,65 112,105" fill="#e8e0d0" opacity="0.55"/>
+  <polygon points="192,90 220,65 188,105" fill="#e8e0d0" opacity="0.55"/>
+  <!-- Inner ears -->
+  <polygon points="110,93 90,75 113,103" fill="#cc0000" opacity="0.3"/>
+  <polygon points="190,93 210,75 187,103" fill="#cc0000" opacity="0.3"/>
+  <!-- Deep sunken eyes -->
+  <ellipse cx="133" cy="100" rx="12" ry="10" fill="#1a1c17"/>
+  <ellipse cx="167" cy="100" rx="12" ry="10" fill="#1a1c17"/>
+  <circle cx="133" cy="100" r="5" fill="#cc0000" opacity="0.7"/>
+  <circle cx="167" cy="100" r="5" fill="#cc0000" opacity="0.7"/>
+  <!-- Brow ridges -->
+  <path d="M118 88 Q133 82 146 90" stroke="#e8e0d0" stroke-width="2.5" fill="none" opacity="0.5"/>
+  <path d="M154 90 Q167 82 182 88" stroke="#e8e0d0" stroke-width="2.5" fill="none" opacity="0.5"/>
+  <!-- Long pointed nose -->
+  <path d="M148 105 L142 140 L150 145 L158 140 L152 105" fill="#e8e0d0" opacity="0.6"/>
+  <!-- Mouth with rat-like front teeth -->
+  <path d="M135 158 Q150 162 165 158" stroke="#1a1c17" stroke-width="2" fill="none"/>
+  <rect x="145" y="158" width="4" height="8" rx="1" fill="#e8e0d0"/>
+  <rect x="151" y="158" width="4" height="8" rx="1" fill="#e8e0d0"/>
+  <!-- Gaunt neck -->
+  <rect x="140" y="178" width="20" height="25" fill="#e8e0d0" opacity="0.3"/>
+  <!-- Long coat -->
+  <path d="M100 205 Q90 260 85 340 L215 340 Q210 260 200 205 Z" fill="#1a1c17" stroke="#e8e0d0" stroke-width="1.5"/>
+  <!-- Coat collar - high -->
+  <path d="M100 205 L115 185 L140 200" stroke="#e8e0d0" stroke-width="1.5" fill="none"/>
+  <path d="M200 205 L185 185 L160 200" stroke="#e8e0d0" stroke-width="1.5" fill="none"/>
+  <!-- Long creepy fingers reaching out -->
+  <path d="M85 260 L55 240 L45 230" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M85 265 L50 250 L38 242" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M85 270 L52 260 L40 255" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M85 275 L58 270 L48 268" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <!-- Long fingernails -->
+  <line x1="45" y1="230" x2="38" y2="222" stroke="#e8e0d0" stroke-width="1.5" opacity="0.6"/>
+  <line x1="38" y1="242" x2="30" y2="236" stroke="#e8e0d0" stroke-width="1.5" opacity="0.6"/>
+  <line x1="40" y1="255" x2="32" y2="250" stroke="#e8e0d0" stroke-width="1.5" opacity="0.6"/>
+  <line x1="48" y1="268" x2="42" y2="264" stroke="#e8e0d0" stroke-width="1.5" opacity="0.6"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="16" letter-spacing="2">NOSFERATU</text>
+</svg>

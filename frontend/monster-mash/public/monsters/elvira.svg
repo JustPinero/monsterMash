@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Big voluminous black hair -->
+  <path d="M70 130 Q60 80 80 50 Q100 25 150 20 Q200 25 220 50 Q240 80 230 130 Q235 170 230 200 L70 200 Q65 170 70 130" fill="#1a1c17" stroke="#e8e0d0" stroke-width="1.5" opacity="0.9"/>
+  <!-- Hair volume highlights -->
+  <path d="M85 60 Q95 50 110 55" stroke="#e8e0d0" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <path d="M190 55 Q200 50 215 60" stroke="#e8e0d0" stroke-width="0.8" fill="none" opacity="0.3"/>
+  <!-- Face -->
+  <ellipse cx="150" cy="130" rx="40" ry="48" fill="#e8e0d0" opacity="0.7"/>
+  <!-- Dramatic eyebrows -->
+  <path d="M115 105 Q130 95 145 102" stroke="#1a1c17" stroke-width="3" fill="none"/>
+  <path d="M185 105 Q170 95 155 102" stroke="#1a1c17" stroke-width="3" fill="none"/>
+  <!-- Eyes with heavy makeup -->
+  <ellipse cx="130" cy="115" rx="10" ry="6" fill="#1a1c17"/>
+  <ellipse cx="170" cy="115" rx="10" ry="6" fill="#1a1c17"/>
+  <ellipse cx="130" cy="115" rx="6" ry="4" fill="#e8e0d0"/>
+  <circle cx="130" cy="115" r="3" fill="#1a1c17"/>
+  <ellipse cx="170" cy="115" rx="6" ry="4" fill="#e8e0d0"/>
+  <circle cx="170" cy="115" r="3" fill="#1a1c17"/>
+  <!-- Red lips -->
+  <path d="M138 148 Q143 144 150 146 Q157 144 162 148 Q157 156 150 158 Q143 156 138 148" fill="#cc0000"/>
+  <!-- Nose -->
+  <path d="M148 130 L146 140 L150 142 L154 140 L152 130" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Beauty mark -->
+  <circle cx="168" cy="145" r="2" fill="#1a1c17"/>
+  <!-- Neck -->
+  <rect x="138" y="175" width="24" height="20" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Plunging neckline dress -->
+  <path d="M80 210 Q90 195 138 195 L150 240 L162 195 Q210 195 220 210 Q230 260 235 340 L65 340 Q70 260 80 210" fill="#1a1c17" stroke="#cc0000" stroke-width="1.5"/>
+  <!-- Dagger/brooch -->
+  <polygon points="150,240 145,250 150,270 155,250" fill="#cc0000" opacity="0.6"/>
+  <!-- Dress draping -->
+  <path d="M80 220 Q100 230 110 260" stroke="#cc0000" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <path d="M220 220 Q200 230 190 260" stroke="#cc0000" stroke-width="0.8" fill="none" opacity="0.4"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" font-style="italic" letter-spacing="2">ELVIRA</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Head - turned unnaturally -->
+  <ellipse cx="150" cy="100" rx="42" ry="48" fill="#e8e0d0" opacity="0.45"/>
+  <!-- Messy hair -->
+  <path d="M108 75 Q100 55 112 45 Q120 40 115 60" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M120 65 Q115 45 125 38 Q130 35 128 55" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M140 60 Q138 40 145 35" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M160 60 Q162 40 158 35" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M175 62 Q180 42 172 38" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M188 70 Q195 50 185 42" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <!-- Green-tinted skin -->
+  <ellipse cx="150" cy="100" rx="38" ry="44" fill="#61dafb" opacity="0.08"/>
+  <!-- Possessed eyes - glowing -->
+  <ellipse cx="132" cy="92" rx="9" ry="8" fill="#e8e0d0" opacity="0.7"/>
+  <circle cx="132" cy="92" r="5" fill="#cc0000"/>
+  <circle cx="132" cy="92" r="2.5" fill="#1a1c17"/>
+  <ellipse cx="168" cy="92" rx="9" ry="8" fill="#e8e0d0" opacity="0.7"/>
+  <circle cx="168" cy="92" r="5" fill="#cc0000"/>
+  <circle cx="168" cy="92" r="2.5" fill="#1a1c17"/>
+  <!-- Scratches/wounds on face -->
+  <line x1="120" y1="105" x2="132" y2="115" stroke="#cc0000" stroke-width="2" opacity="0.5"/>
+  <line x1="122" y1="108" x2="130" y2="118" stroke="#cc0000" stroke-width="1.5" opacity="0.4"/>
+  <line x1="170" y1="102" x2="182" y2="112" stroke="#cc0000" stroke-width="2" opacity="0.5"/>
+  <!-- Nose -->
+  <path d="M148 100 L146 112 L150 114 L154 112 L152 100" fill="#e8e0d0" opacity="0.35"/>
+  <!-- Mouth - twisted grimace -->
+  <path d="M125 128 Q135 135 150 132 Q165 135 175 128" stroke="#cc0000" stroke-width="2.5" fill="none"/>
+  <!-- Vomit/bile -->
+  <path d="M145 135 Q140 160 135 180 Q132 190 138 195" stroke="#61dafb" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M150 134 Q148 165 150 185" stroke="#61dafb" stroke-width="2" fill="none" opacity="0.25"/>
+  <!-- Neck - twisted -->
+  <path d="M130 145 Q125 155 135 170" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.3"/>
+  <path d="M170 145 Q175 155 165 170" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.3"/>
+  <rect x="132" y="145" width="36" height="25" fill="#e8e0d0" opacity="0.25"/>
+  <!-- Nightgown -->
+  <path d="M110 175 Q100 230 90 340 L210 340 Q200 230 190 175 Z" fill="#e8e0d0" opacity="0.12"/>
+  <!-- Nightgown details -->
+  <path d="M120 185 Q150 180 180 185" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.15"/>
+  <!-- Floating/levitating - gap under figure -->
+  <path d="M105 330 Q150 340 195 330" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.15"/>
+  <path d="M110 335 Q150 345 190 335" stroke="#e8e0d0" stroke-width="0.8" fill="none" opacity="0.1"/>
+  <!-- Cross pendant (inverted) -->
+  <line x1="150" y1="180" x2="150" y2="200" stroke="#e8e0d0" stroke-width="2" opacity="0.3"/>
+  <line x1="143" y1="185" x2="157" y2="185" stroke="#e8e0d0" stroke-width="2" opacity="0.3"/>
+  <!-- Bed frame silhouette -->
+  <rect x="70" y="305" width="160" height="8" rx="3" fill="#e8e0d0" opacity="0.08"/>
+  <rect x="70" y="305" width="5" height="35" fill="#e8e0d0" opacity="0.08"/>
+  <rect x="225" y="305" width="5" height="35" fill="#e8e0d0" opacity="0.08"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" letter-spacing="2">REGAN</text>
+</svg>

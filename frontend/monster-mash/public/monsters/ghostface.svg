@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Hood -->
+  <path d="M100 50 Q90 50 85 80 Q80 120 85 170 Q90 190 110 200 L190 200 Q210 190 215 170 Q220 120 215 80 Q210 50 200 50 Q180 40 150 38 Q120 40 100 50" fill="#1a1c17" stroke="#e8e0d0" stroke-width="2"/>
+  <!-- Ghost face mask -->
+  <path d="M110 70 Q108 80 110 140 Q115 180 130 195 Q140 200 150 205 Q160 200 170 195 Q185 180 190 140 Q192 80 190 70 Q175 55 150 52 Q125 55 110 70" fill="#e8e0d0" opacity="0.9"/>
+  <!-- Eyes - elongated hollow -->
+  <path d="M120 100 Q125 85 135 90 Q140 95 140 110 Q138 120 130 125 Q120 120 118 110 Z" fill="#1a1c17"/>
+  <path d="M180 100 Q175 85 165 90 Q160 95 160 110 Q162 120 170 125 Q180 120 182 110 Z" fill="#1a1c17"/>
+  <!-- Eye glow -->
+  <circle cx="130" cy="107" r="3" fill="#cc0000" opacity="0.5"/>
+  <circle cx="170" cy="107" r="3" fill="#cc0000" opacity="0.5"/>
+  <!-- Mouth - elongated scream -->
+  <ellipse cx="150" cy="165" rx="15" ry="25" fill="#1a1c17"/>
+  <!-- Robe body -->
+  <path d="M85 200 Q75 270 70 340 L230 340 Q225 270 215 200 Z" fill="#1a1c17" stroke="#e8e0d0" stroke-width="1.5"/>
+  <!-- Robe folds -->
+  <line x1="120" y1="210" x2="110" y2="340" stroke="#e8e0d0" stroke-width="0.8" opacity="0.3"/>
+  <line x1="150" y1="205" x2="150" y2="340" stroke="#e8e0d0" stroke-width="0.8" opacity="0.3"/>
+  <line x1="180" y1="210" x2="190" y2="340" stroke="#e8e0d0" stroke-width="0.8" opacity="0.3"/>
+  <!-- Knife -->
+  <line x1="230" y1="200" x2="250" y2="280" stroke="#e8e0d0" stroke-width="2"/>
+  <path d="M246 268 L254 292 L248 290 Z" fill="#e8e0d0"/>
+  <!-- Knife handle -->
+  <rect x="227" y="193" width="8" height="15" rx="2" fill="#cc0000" opacity="0.7"/>
+  <!-- Blood drip from knife -->
+  <circle cx="252" cy="296" r="2" fill="#cc0000"/>
+  <circle cx="250" cy="304" r="1.5" fill="#cc0000"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="18" letter-spacing="2">GHOSTFACE</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Amorphous body mass -->
+  <path d="M80 150 Q60 180 70 220 Q65 260 80 300 Q100 330 150 335 Q200 330 220 300 Q235 260 230 220 Q240 180 220 150 Q200 120 150 115 Q100 120 80 150" fill="#cc0000" opacity="0.4"/>
+  <!-- Twisted tentacles/appendages -->
+  <path d="M80 200 Q50 180 40 150 Q35 130 45 120" stroke="#cc0000" stroke-width="6" fill="none" opacity="0.6"/>
+  <path d="M45 120 L38 110 M45 120 L50 108 M45 120 L42 115" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M220 190 Q250 170 260 140 Q265 120 255 110" stroke="#cc0000" stroke-width="6" fill="none" opacity="0.6"/>
+  <path d="M255 110 L260 100 M255 110 L248 102 M255 110 L258 105" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.5"/>
+  <!-- Split head emerging -->
+  <path d="M130 130 Q125 100 130 80 Q135 60 145 55" fill="#cc0000" opacity="0.5"/>
+  <path d="M170 130 Q175 100 170 80 Q165 60 155 55" fill="#cc0000" opacity="0.5"/>
+  <!-- Teeth between split -->
+  <path d="M135 90 L140 80 L145 90" stroke="#e8e0d0" stroke-width="1.5" fill="none"/>
+  <path d="M145 85 L150 72 L155 85" stroke="#e8e0d0" stroke-width="1.5" fill="none"/>
+  <path d="M155 90 L160 80 L165 90" stroke="#e8e0d0" stroke-width="1.5" fill="none"/>
+  <!-- Multiple distorted eyes -->
+  <circle cx="120" cy="170" r="8" fill="#e8e0d0" opacity="0.6"/>
+  <circle cx="120" cy="170" r="4" fill="#1a1c17"/>
+  <circle cx="120" cy="170" r="2" fill="#cc0000"/>
+  <circle cx="180" cy="165" r="10" fill="#e8e0d0" opacity="0.5"/>
+  <circle cx="180" cy="165" r="5" fill="#1a1c17"/>
+  <circle cx="180" cy="165" r="2.5" fill="#cc0000"/>
+  <circle cx="150" cy="190" r="6" fill="#e8e0d0" opacity="0.4"/>
+  <circle cx="150" cy="190" r="3" fill="#1a1c17"/>
+  <circle cx="150" cy="190" r="1.5" fill="#cc0000"/>
+  <!-- Veiny texture -->
+  <path d="M100 180 Q120 200 110 240" stroke="#cc0000" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M200 180 Q180 200 190 240" stroke="#cc0000" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M140 220 Q150 250 160 220" stroke="#cc0000" stroke-width="1" fill="none" opacity="0.4"/>
+  <!-- Spider legs emerging -->
+  <path d="M100 280 L60 310 L55 305" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M110 290 L75 325 L70 320" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M200 280 L240 310 L245 305" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M190 290 L225 325 L230 320" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.5"/>
+  <!-- Goo drips -->
+  <path d="M140 335 Q138 345 140 352" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.4"/>
+  <circle cx="140" cy="354" r="2" fill="#cc0000" opacity="0.4"/>
+  <path d="M165 335 Q167 348 165 355" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.4"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="monospace" font-size="18" letter-spacing="2">THE THING</text>
+</svg>

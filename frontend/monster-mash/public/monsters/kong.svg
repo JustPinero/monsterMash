@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Background buildings -->
+  <rect x="35" y="260" width="20" height="80" fill="#e8e0d0" opacity="0.06"/>
+  <rect x="250" y="250" width="18" height="90" fill="#e8e0d0" opacity="0.06"/>
+  <!-- Building Kong is on -->
+  <rect x="100" y="250" width="100" height="100" fill="#e8e0d0" opacity="0.08"/>
+  <rect x="105" y="260" width="12" height="10" fill="#e8e0d0" opacity="0.05"/>
+  <rect x="125" y="260" width="12" height="10" fill="#e8e0d0" opacity="0.05"/>
+  <rect x="145" y="260" width="12" height="10" fill="#e8e0d0" opacity="0.05"/>
+  <rect x="165" y="260" width="12" height="10" fill="#e8e0d0" opacity="0.05"/>
+  <rect x="185" y="260" width="12" height="10" fill="#e8e0d0" opacity="0.05"/>
+  <!-- Massive gorilla silhouette -->
+  <!-- Head -->
+  <path d="M120 100 Q115 80 125 65 Q140 50 150 48 Q160 50 175 65 Q185 80 180 100 Q180 130 170 145 Q160 155 150 158 Q140 155 130 145 Q120 130 120 100" fill="#e8e0d0" opacity="0.45"/>
+  <!-- Brow ridge -->
+  <path d="M122 90 Q150 80 178 90" stroke="#e8e0d0" stroke-width="4" fill="none" opacity="0.5"/>
+  <!-- Eyes under brow -->
+  <ellipse cx="137" cy="100" rx="6" ry="4" fill="#1a1c17"/>
+  <ellipse cx="163" cy="100" rx="6" ry="4" fill="#1a1c17"/>
+  <circle cx="137" cy="100" r="2.5" fill="#cc0000" opacity="0.6"/>
+  <circle cx="163" cy="100" r="2.5" fill="#cc0000" opacity="0.6"/>
+  <!-- Nose - flat wide -->
+  <ellipse cx="150" cy="118" rx="10" ry="6" fill="#e8e0d0" opacity="0.55"/>
+  <circle cx="145" cy="120" r="3" fill="#1a1c17"/>
+  <circle cx="155" cy="120" r="3" fill="#1a1c17"/>
+  <!-- Open roaring mouth -->
+  <path d="M130 132 Q150 155 170 132" fill="#1a1c17"/>
+  <path d="M130 132 Q150 155 170 132" stroke="#cc0000" stroke-width="1.5" fill="#cc0000" opacity="0.4"/>
+  <!-- Teeth/fangs -->
+  <polygon points="135,132 138,140 141,132" fill="#e8e0d0"/>
+  <polygon points="159,132 162,140 165,132" fill="#e8e0d0"/>
+  <!-- Massive chest and body -->
+  <path d="M90 160 Q70 200 65 250 L235 250 Q230 200 210 160 Q190 145 150 158 Q110 145 90 160" fill="#e8e0d0" opacity="0.3"/>
+  <!-- Chest detail -->
+  <path d="M120 180 Q150 170 180 180" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.2"/>
+  <path d="M115 200 Q150 190 185 200" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.2"/>
+  <!-- Arms - one raised beating chest -->
+  <path d="M90 170 Q60 180 45 200 Q35 220 40 240" stroke="#e8e0d0" stroke-width="12" fill="none" opacity="0.35" stroke-linecap="round"/>
+  <!-- Fist -->
+  <circle cx="40" cy="245" r="12" fill="#e8e0d0" opacity="0.35"/>
+  <!-- Right arm raised -->
+  <path d="M210 170 Q240 160 255 140 Q265 120 260 100" stroke="#e8e0d0" stroke-width="12" fill="none" opacity="0.35" stroke-linecap="round"/>
+  <!-- Raised fist -->
+  <circle cx="258" cy="95" r="12" fill="#e8e0d0" opacity="0.35"/>
+  <!-- Fur texture -->
+  <path d="M100 180 Q95 185 98 190" stroke="#e8e0d0" stroke-width="1" opacity="0.2"/>
+  <path d="M200 180 Q205 185 202 190" stroke="#e8e0d0" stroke-width="1" opacity="0.2"/>
+  <path d="M130 165 Q128 170 131 175" stroke="#e8e0d0" stroke-width="1" opacity="0.2"/>
+  <path d="M170 165 Q172 170 169 175" stroke="#e8e0d0" stroke-width="1" opacity="0.2"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="22" font-weight="bold" letter-spacing="3">KONG</text>
+</svg>

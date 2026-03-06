@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Leather mask face -->
+  <path d="M108 60 Q105 80 105 130 Q108 180 130 195 Q140 200 150 202 Q160 200 170 195 Q192 180 195 130 Q195 80 192 60 Q175 42 150 40 Q125 42 108 60" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Stitch lines across mask -->
+  <path d="M150 40 L150 202" stroke="#cc0000" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <path d="M105 110 L195 110" stroke="#cc0000" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <path d="M108 150 L192 150" stroke="#cc0000" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- Uneven eye holes -->
+  <ellipse cx="128" cy="105" rx="12" ry="10" fill="#1a1c17"/>
+  <ellipse cx="172" cy="100" rx="10" ry="12" fill="#1a1c17"/>
+  <!-- Wild eyes behind mask -->
+  <circle cx="128" cy="105" r="4" fill="#cc0000" opacity="0.6"/>
+  <circle cx="172" cy="100" r="4" fill="#cc0000" opacity="0.6"/>
+  <!-- Nose cut-out -->
+  <polygon points="145,130 150,125 155,130 152,140 148,140" fill="#1a1c17"/>
+  <!-- Mouth area - stretched skin -->
+  <path d="M125 165 Q150 175 175 165" stroke="#1a1c17" stroke-width="2" fill="none"/>
+  <path d="M130 168 Q150 178 170 168" stroke="#cc0000" stroke-width="1" fill="none"/>
+  <!-- Hair - messy sparse -->
+  <path d="M105 70 Q95 55 100 40 Q105 30 110 45" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M120 50 Q118 30 125 25" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M175 48 Q180 28 185 30" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <path d="M192 65 Q200 50 198 40" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.3"/>
+  <!-- Tie/apron -->
+  <path d="M110 210 L100 340 L200 340 L190 210 Z" fill="#e8e0d0" opacity="0.15"/>
+  <rect x="140" y="210" width="20" height="130" fill="#cc0000" opacity="0.2"/>
+  <!-- Blood stains on apron -->
+  <circle cx="125" cy="260" r="8" fill="#cc0000" opacity="0.3"/>
+  <circle cx="170" cy="280" r="10" fill="#cc0000" opacity="0.25"/>
+  <circle cx="140" cy="300" r="6" fill="#cc0000" opacity="0.2"/>
+  <!-- Chainsaw -->
+  <rect x="220" y="140" width="12" height="180" rx="3" fill="#e8e0d0" opacity="0.4"/>
+  <!-- Chainsaw blade -->
+  <path d="M216 140 L240 140 L240 100 Q230 85 226 100 Z" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Chain teeth -->
+  <path d="M217 105 L219 100 L221 105 L223 100 L225 105 L227 100 L229 105 L231 100 L233 105 L235 100 L237 105 L239 100" stroke="#cc0000" stroke-width="1.5" fill="none"/>
+  <path d="M240 110 L240 130" stroke="#cc0000" stroke-width="2" stroke-dasharray="3,2"/>
+  <!-- Handle -->
+  <rect x="218" y="250" width="16" height="30" rx="3" fill="#cc0000" opacity="0.4"/>
+  <rect x="218" y="300" width="16" height="25" rx="3" fill="#cc0000" opacity="0.4"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="16" letter-spacing="2">LEATHERFACE</text>
+</svg>

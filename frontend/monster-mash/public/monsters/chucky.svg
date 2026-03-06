@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Red hair - wild -->
+  <path d="M95 110 Q80 70 100 50 Q110 40 120 55 Q115 35 135 35 Q140 25 155 35 Q165 25 175 40 Q185 35 190 55 Q200 40 210 55 Q220 70 205 110" fill="#cc0000" opacity="0.7"/>
+  <path d="M90 110 Q78 80 95 55" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.5"/>
+  <path d="M210 110 Q222 80 205 55" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.5"/>
+  <!-- Doll face - round -->
+  <circle cx="150" cy="130" r="45" fill="#e8e0d0" opacity="0.7"/>
+  <!-- Freckles -->
+  <circle cx="120" cy="130" r="2" fill="#cc0000" opacity="0.4"/>
+  <circle cx="125" cy="135" r="2" fill="#cc0000" opacity="0.4"/>
+  <circle cx="118" cy="137" r="2" fill="#cc0000" opacity="0.4"/>
+  <circle cx="175" cy="128" r="2" fill="#cc0000" opacity="0.4"/>
+  <circle cx="180" cy="133" r="2" fill="#cc0000" opacity="0.4"/>
+  <circle cx="182" cy="128" r="2" fill="#cc0000" opacity="0.4"/>
+  <!-- Big doll eyes -->
+  <circle cx="132" cy="120" r="10" fill="#e8e0d0"/>
+  <circle cx="132" cy="120" r="7" fill="#61dafb" opacity="0.6"/>
+  <circle cx="132" cy="120" r="4" fill="#1a1c17"/>
+  <circle cx="130" cy="118" r="1.5" fill="#e8e0d0"/>
+  <circle cx="168" cy="120" r="10" fill="#e8e0d0"/>
+  <circle cx="168" cy="120" r="7" fill="#61dafb" opacity="0.6"/>
+  <circle cx="168" cy="120" r="4" fill="#1a1c17"/>
+  <circle cx="166" cy="118" r="1.5" fill="#e8e0d0"/>
+  <!-- Eyebrows -->
+  <path d="M120 107 Q132 100 142 107" stroke="#cc0000" stroke-width="2" fill="none"/>
+  <path d="M158 107 Q168 100 180 107" stroke="#cc0000" stroke-width="2" fill="none"/>
+  <!-- Nose -->
+  <circle cx="150" cy="135" r="4" fill="#e8e0d0" opacity="0.6"/>
+  <!-- Sinister smile -->
+  <path d="M128 152 Q150 168 172 152" stroke="#cc0000" stroke-width="2.5" fill="none"/>
+  <!-- Scar stitches on face -->
+  <line x1="185" y1="115" x2="195" y2="130" stroke="#cc0000" stroke-width="2"/>
+  <line x1="187" y1="118" x2="193" y2="115" stroke="#cc0000" stroke-width="1.5"/>
+  <line x1="189" y1="122" x2="195" y2="119" stroke="#cc0000" stroke-width="1.5"/>
+  <line x1="191" y1="126" x2="197" y2="123" stroke="#cc0000" stroke-width="1.5"/>
+  <!-- Overalls -->
+  <rect x="115" y="185" width="70" height="130" rx="5" fill="#e8e0d0" opacity="0.2"/>
+  <!-- Overall straps -->
+  <path d="M125 185 L130 210 L150 220 L170 210 L175 185" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <!-- Striped shirt under overalls -->
+  <rect x="120" y="195" width="60" height="20" fill="#cc0000" opacity="0.3"/>
+  <line x1="120" y1="200" x2="180" y2="200" stroke="#e8e0d0" stroke-width="1" opacity="0.3"/>
+  <line x1="120" y1="206" x2="180" y2="206" stroke="#e8e0d0" stroke-width="1" opacity="0.3"/>
+  <!-- Doll body - small -->
+  <rect x="120" y="220" width="60" height="90" rx="3" fill="#61dafb" opacity="0.15"/>
+  <!-- Buttons -->
+  <circle cx="150" cy="230" r="3" fill="#e8e0d0" opacity="0.4"/>
+  <circle cx="150" cy="245" r="3" fill="#e8e0d0" opacity="0.4"/>
+  <!-- Knife in hand -->
+  <path d="M190 220 L205 210 L210 160 L205 160 L200 208 L190 215 Z" fill="#e8e0d0" opacity="0.6"/>
+  <rect x="190" y="215" width="15" height="12" rx="2" fill="#cc0000" opacity="0.5"/>
+  <!-- Small doll shoes -->
+  <rect x="120" y="315" width="22" height="10" rx="5" fill="#cc0000" opacity="0.4"/>
+  <rect x="158" y="315" width="22" height="10" rx="5" fill="#cc0000" opacity="0.4"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" letter-spacing="2">CHUCKY</text>
+</svg>

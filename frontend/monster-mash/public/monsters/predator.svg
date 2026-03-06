@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Dreadlocks -->
+  <path d="M100 100 Q95 150 90 200" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M110 95 Q100 150 95 210" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M190 95 Q200 150 205 210" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M200 100 Q205 150 210 200" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M115 90 Q105 140 100 220" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <path d="M185 90 Q195 140 200 220" stroke="#e8e0d0" stroke-width="5" fill="none" opacity="0.4"/>
+  <!-- Head/mask -->
+  <path d="M110 60 Q110 50 150 45 Q190 50 190 60 L195 140 Q190 160 150 165 Q110 160 105 140 Z" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Forehead ridge -->
+  <path d="M115 65 Q150 55 185 65" stroke="#cc0000" stroke-width="2" fill="none"/>
+  <path d="M118 75 Q150 67 182 75" stroke="#cc0000" stroke-width="1.5" fill="none"/>
+  <!-- Eyes - triangular -->
+  <polygon points="125,95 140,90 140,100" fill="#cc0000"/>
+  <polygon points="175,95 160,90 160,100" fill="#cc0000"/>
+  <!-- Mandibles -->
+  <path d="M120 140 L105 175 L115 170" fill="#e8e0d0" opacity="0.7"/>
+  <path d="M135 145 L125 180 L135 172" fill="#e8e0d0" opacity="0.7"/>
+  <path d="M165 145 L175 180 L165 172" fill="#e8e0d0" opacity="0.7"/>
+  <path d="M180 140 L195 175 L185 170" fill="#e8e0d0" opacity="0.7"/>
+  <!-- Mandible tusks -->
+  <circle cx="105" cy="175" r="3" fill="#cc0000"/>
+  <circle cx="125" cy="180" r="3" fill="#cc0000"/>
+  <circle cx="175" cy="180" r="3" fill="#cc0000"/>
+  <circle cx="195" cy="175" r="3" fill="#cc0000"/>
+  <!-- Shoulder armor -->
+  <path d="M70 190 L110 180 L110 220 L70 210 Z" fill="#e8e0d0" opacity="0.35"/>
+  <path d="M230 190 L190 180 L190 220 L230 210 Z" fill="#e8e0d0" opacity="0.35"/>
+  <!-- Shoulder cannon -->
+  <rect x="175" y="160" width="8" height="30" rx="3" fill="#cc0000" opacity="0.6" transform="rotate(-20 179 175)"/>
+  <circle cx="177" cy="155" r="6" fill="#cc0000" opacity="0.8"/>
+  <!-- Targeting laser dots (triangle) -->
+  <circle cx="145" cy="110" r="2" fill="#cc0000"/>
+  <circle cx="155" cy="110" r="2" fill="#cc0000"/>
+  <circle cx="150" cy="118" r="2" fill="#cc0000"/>
+  <!-- Body mesh/netting -->
+  <path d="M110 190 Q100 250 95 310 L205 310 Q200 250 190 190 Z" fill="#e8e0d0" opacity="0.2"/>
+  <line x1="120" y1="200" x2="140" y2="300" stroke="#e8e0d0" stroke-width="0.8" opacity="0.3"/>
+  <line x1="150" y1="190" x2="150" y2="310" stroke="#e8e0d0" stroke-width="0.8" opacity="0.3"/>
+  <line x1="180" y1="200" x2="160" y2="300" stroke="#e8e0d0" stroke-width="0.8" opacity="0.3"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="monospace" font-size="18" letter-spacing="2">PREDATOR</text>
+</svg>

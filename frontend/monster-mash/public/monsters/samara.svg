@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Well -->
+  <ellipse cx="150" cy="310" rx="70" ry="20" fill="none" stroke="#e8e0d0" stroke-width="3" opacity="0.3"/>
+  <ellipse cx="150" cy="310" rx="55" ry="15" fill="#1a1c17" stroke="#e8e0d0" stroke-width="1.5" opacity="0.2"/>
+  <!-- Well stones -->
+  <path d="M80 310 L80 340 Q150 365 220 340 L220 310" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.25"/>
+  <line x1="100" y1="312" x2="100" y2="345" stroke="#e8e0d0" stroke-width="1" opacity="0.15"/>
+  <line x1="130" y1="315" x2="130" y2="350" stroke="#e8e0d0" stroke-width="1" opacity="0.15"/>
+  <line x1="170" y1="315" x2="170" y2="350" stroke="#e8e0d0" stroke-width="1" opacity="0.15"/>
+  <line x1="200" y1="312" x2="200" y2="345" stroke="#e8e0d0" stroke-width="1" opacity="0.15"/>
+  <!-- Climbing out figure -->
+  <!-- Long dark hair -->
+  <path d="M115 200 Q108 220 105 260 Q102 290 105 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M125 195 Q118 220 115 260 Q114 290 118 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.35"/>
+  <path d="M135 192 Q130 220 128 260 Q126 290 130 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M145 190 Q142 220 140 260 Q139 290 142 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.35"/>
+  <path d="M155 190 Q158 220 160 260 Q161 290 158 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M165 192 Q170 220 172 260 Q174 290 170 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.35"/>
+  <path d="M175 195 Q182 220 185 260 Q186 290 182 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M185 200 Q192 220 195 260 Q198 290 195 310" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.35"/>
+  <!-- White dress body -->
+  <path d="M120 200 Q115 250 110 310 L190 310 Q185 250 180 200 Z" fill="#e8e0d0" opacity="0.08"/>
+  <!-- Arms gripping well edge -->
+  <path d="M110 285 Q100 290 95 295 L90 300" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <path d="M190 285 Q200 290 205 295 L210 300" stroke="#e8e0d0" stroke-width="3" fill="none" opacity="0.4"/>
+  <!-- Fingers gripping -->
+  <path d="M88 300 L82 305 M88 300 L85 308 M88 300 L90 307" stroke="#e8e0d0" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M212 300 L218 305 M212 300 L215 308 M212 300 L210 307" stroke="#e8e0d0" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <!-- One eye visible -->
+  <circle cx="160" cy="215" r="5" fill="#e8e0d0" opacity="0.6"/>
+  <circle cx="160" cy="215" r="2.5" fill="#1a1c17"/>
+  <circle cx="160" cy="215" r="1.2" fill="#cc0000"/>
+  <!-- Water dripping -->
+  <path d="M130 310 Q128 320 130 325" stroke="#61dafb" stroke-width="1" fill="none" opacity="0.3"/>
+  <circle cx="130" cy="327" r="1.5" fill="#61dafb" opacity="0.3"/>
+  <path d="M160 312 Q162 322 160 328" stroke="#61dafb" stroke-width="1" fill="none" opacity="0.25"/>
+  <circle cx="160" cy="330" r="1" fill="#61dafb" opacity="0.25"/>
+  <text x="150" y="380" text-anchor="middle" fill="#e8e0d0" font-family="serif" font-size="18" letter-spacing="2">SAMARA</text>
+</svg>

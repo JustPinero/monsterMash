@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Prom crown -->
+  <path d="M125 58 L130 40 L138 55 L145 35 L150 55 L155 30 L160 55 L167 38 L172 55 L178 42 L180 58" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M125 58 Q150 52 180 58" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.5"/>
+  <!-- Hair - straight, long -->
+  <path d="M105 75 Q100 100 95 160 Q92 200 95 250" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.4"/>
+  <path d="M112 72 Q108 100 105 160 Q103 200 105 240" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.35"/>
+  <path d="M188 72 Q192 100 195 160 Q197 200 195 240" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.35"/>
+  <path d="M195 75 Q200 100 205 160 Q208 200 205 250" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.4"/>
+  <!-- Face -->
+  <ellipse cx="150" cy="105" rx="40" ry="45" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Blood dripping down face -->
+  <path d="M130 65 Q128 80 132 100 Q130 120 135 140" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M150 60 Q148 80 150 100 Q152 120 150 145" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.7"/>
+  <path d="M170 65 Q172 85 168 105 Q170 125 167 140" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M140 62 Q138 85 140 110" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.5"/>
+  <path d="M160 63 Q162 85 160 115" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.5"/>
+  <!-- Eyes - wide, shocked/angry -->
+  <ellipse cx="135" cy="100" rx="8" ry="8" fill="#e8e0d0" opacity="0.8"/>
+  <circle cx="135" cy="100" r="4" fill="#1a1c17"/>
+  <circle cx="135" cy="100" r="2" fill="#cc0000"/>
+  <ellipse cx="165" cy="100" rx="8" ry="8" fill="#e8e0d0" opacity="0.8"/>
+  <circle cx="165" cy="100" r="4" fill="#1a1c17"/>
+  <circle cx="165" cy="100" r="2" fill="#cc0000"/>
+  <!-- Nose -->
+  <path d="M148 108 L146 118 L150 120 L154 118 L152 108" fill="#e8e0d0" opacity="0.4"/>
+  <!-- Mouth - slightly open, distressed -->
+  <ellipse cx="150" cy="132" rx="8" ry="5" fill="#1a1c17"/>
+  <!-- Prom dress -->
+  <path d="M110 155 Q100 200 85 340 L215 340 Q200 200 190 155 Z" fill="#cc0000" opacity="0.3"/>
+  <!-- Blood dripping on dress -->
+  <path d="M130 155 Q128 180 132 210 Q130 240 135 270" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.5"/>
+  <path d="M150 155 Q150 190 150 230 Q150 270 150 310" stroke="#cc0000" stroke-width="4" fill="none" opacity="0.5"/>
+  <path d="M170 155 Q172 185 168 220 Q170 260 167 300" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.5"/>
+  <!-- Telekinetic energy lines -->
+  <path d="M80 120 L60 110" stroke="#cc0000" stroke-width="1" opacity="0.3"/>
+  <path d="M75 130 L50 125" stroke="#cc0000" stroke-width="1" opacity="0.25"/>
+  <path d="M220 120 L240 110" stroke="#cc0000" stroke-width="1" opacity="0.3"/>
+  <path d="M225 130 L250 125" stroke="#cc0000" stroke-width="1" opacity="0.25"/>
+  <!-- Hands outstretched -->
+  <path d="M95 220 L65 210 L58 205 M65 210 L55 212 M65 210 L60 218" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.35"/>
+  <path d="M205 220 L235 210 L242 205 M235 210 L245 212 M235 210 L240 218" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.35"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" letter-spacing="2">CARRIE</text>
+</svg>

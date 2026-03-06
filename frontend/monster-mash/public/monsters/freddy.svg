@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Fedora hat -->
+  <path d="M70 100 L230 100 L210 85 Q150 55 90 85 Z" fill="#e8e0d0" opacity="0.4"/>
+  <rect x="95" y="65" width="110" height="25" rx="5" fill="#e8e0d0" opacity="0.35"/>
+  <rect x="100" y="50" width="100" height="20" rx="10" fill="#e8e0d0" opacity="0.35"/>
+  <!-- Burned face -->
+  <path d="M110 100 Q105 120 108 160 Q115 190 150 195 Q185 190 192 160 Q195 120 190 100 Z" fill="#cc0000" opacity="0.6"/>
+  <!-- Burn texture/scars -->
+  <path d="M120 110 Q125 130 118 150" stroke="#cc0000" stroke-width="3" fill="none" opacity="0.8"/>
+  <path d="M140 105 Q138 125 142 145" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.7"/>
+  <path d="M165 108 Q168 128 163 148" stroke="#cc0000" stroke-width="2.5" fill="none" opacity="0.7"/>
+  <path d="M180 112 Q176 135 182 155" stroke="#cc0000" stroke-width="2" fill="none" opacity="0.8"/>
+  <!-- Eyes -->
+  <ellipse cx="133" cy="130" rx="8" ry="5" fill="#1a1c17"/>
+  <ellipse cx="167" cy="130" rx="8" ry="5" fill="#1a1c17"/>
+  <circle cx="133" cy="130" r="3" fill="#e8e0d0"/>
+  <circle cx="167" cy="130" r="3" fill="#e8e0d0"/>
+  <!-- Sinister grin -->
+  <path d="M125 170 Q150 190 175 170" stroke="#1a1c17" stroke-width="3" fill="none"/>
+  <path d="M130 172 L135 170 L140 174 L145 170 L150 174 L155 170 L160 174 L165 170 L170 172" stroke="#e8e0d0" stroke-width="1.5" fill="none"/>
+  <!-- Striped sweater -->
+  <rect x="105" y="200" width="90" height="130" rx="5" fill="#cc0000" opacity="0.6"/>
+  <rect x="105" y="210" width="90" height="12" fill="#e8e0d0" opacity="0.15"/>
+  <rect x="105" y="234" width="90" height="12" fill="#e8e0d0" opacity="0.15"/>
+  <rect x="105" y="258" width="90" height="12" fill="#e8e0d0" opacity="0.15"/>
+  <rect x="105" y="282" width="90" height="12" fill="#e8e0d0" opacity="0.15"/>
+  <rect x="105" y="306" width="90" height="12" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Glove hand with blades -->
+  <rect x="210" y="220" width="15" height="25" rx="3" fill="#e8e0d0" opacity="0.5"/>
+  <!-- Finger blades -->
+  <line x1="212" y1="220" x2="208" y2="170" stroke="#e8e0d0" stroke-width="2"/>
+  <line x1="216" y1="220" x2="214" y2="165" stroke="#e8e0d0" stroke-width="2"/>
+  <line x1="220" y1="220" x2="220" y2="163" stroke="#e8e0d0" stroke-width="2"/>
+  <line x1="224" y1="220" x2="226" y2="168" stroke="#e8e0d0" stroke-width="2"/>
+  <!-- Blade tips -->
+  <circle cx="208" cy="169" r="1.5" fill="#cc0000"/>
+  <circle cx="214" cy="164" r="1.5" fill="#cc0000"/>
+  <circle cx="220" cy="162" r="1.5" fill="#cc0000"/>
+  <circle cx="226" cy="167" r="1.5" fill="#cc0000"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" letter-spacing="2">FREDDY</text>
+</svg>

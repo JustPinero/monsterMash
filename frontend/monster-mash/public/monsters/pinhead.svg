@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Head -->
+  <rect x="110" y="60" width="80" height="100" rx="10" fill="#e8e0d0" opacity="0.6"/>
+  <!-- Grid lines on head -->
+  <line x1="110" y1="80" x2="190" y2="80" stroke="#1a1c17" stroke-width="2"/>
+  <line x1="110" y1="100" x2="190" y2="100" stroke="#1a1c17" stroke-width="2"/>
+  <line x1="110" y1="120" x2="190" y2="120" stroke="#1a1c17" stroke-width="2"/>
+  <line x1="110" y1="140" x2="190" y2="140" stroke="#1a1c17" stroke-width="2"/>
+  <line x1="130" y1="60" x2="130" y2="160" stroke="#1a1c17" stroke-width="2"/>
+  <line x1="150" y1="60" x2="150" y2="160" stroke="#1a1c17" stroke-width="2"/>
+  <line x1="170" y1="60" x2="170" y2="160" stroke="#1a1c17" stroke-width="2"/>
+  <!-- Pins at intersections -->
+  <circle cx="130" cy="80" r="3" fill="#cc0000"/><line x1="130" y1="68" x2="130" y2="80" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="150" cy="80" r="3" fill="#cc0000"/><line x1="150" y1="68" x2="150" y2="80" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="170" cy="80" r="3" fill="#cc0000"/><line x1="170" y1="68" x2="170" y2="80" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="130" cy="100" r="3" fill="#cc0000"/><line x1="118" y1="100" x2="130" y2="100" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="170" cy="100" r="3" fill="#cc0000"/><line x1="182" y1="100" x2="170" y2="100" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="130" cy="120" r="3" fill="#cc0000"/><line x1="118" y1="120" x2="130" y2="120" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="170" cy="120" r="3" fill="#cc0000"/><line x1="182" y1="120" x2="170" y2="120" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="130" cy="140" r="3" fill="#cc0000"/><line x1="130" y1="140" x2="130" y2="152" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="150" cy="140" r="3" fill="#cc0000"/><line x1="150" y1="140" x2="150" y2="152" stroke="#e8e0d0" stroke-width="1.5"/>
+  <circle cx="170" cy="140" r="3" fill="#cc0000"/><line x1="170" y1="140" x2="170" y2="152" stroke="#e8e0d0" stroke-width="1.5"/>
+  <!-- Eyes - dark, sunken -->
+  <ellipse cx="140" cy="100" rx="6" ry="5" fill="#1a1c17"/>
+  <ellipse cx="160" cy="100" rx="6" ry="5" fill="#1a1c17"/>
+  <!-- Mouth -->
+  <line x1="135" y1="135" x2="165" y2="135" stroke="#1a1c17" stroke-width="2"/>
+  <!-- Leather outfit -->
+  <rect x="105" y="170" width="90" height="140" rx="5" fill="#1a1c17" stroke="#e8e0d0" stroke-width="1.5"/>
+  <!-- Leather straps -->
+  <line x1="120" y1="170" x2="120" y2="310" stroke="#cc0000" stroke-width="2"/>
+  <line x1="150" y1="170" x2="150" y2="310" stroke="#cc0000" stroke-width="2"/>
+  <line x1="180" y1="170" x2="180" y2="310" stroke="#cc0000" stroke-width="2"/>
+  <line x1="105" y1="220" x2="195" y2="220" stroke="#cc0000" stroke-width="2"/>
+  <line x1="105" y1="260" x2="195" y2="260" stroke="#cc0000" stroke-width="2"/>
+  <!-- Puzzle box -->
+  <rect x="220" y="280" width="35" height="35" rx="3" fill="#cc0000" opacity="0.6" transform="rotate(15 237 297)"/>
+  <line x1="225" y1="297" x2="255" y2="297" stroke="#e8e0d0" stroke-width="1" transform="rotate(15 237 297)"/>
+  <line x1="237" y1="283" x2="237" y2="313" stroke="#e8e0d0" stroke-width="1" transform="rotate(15 237 297)"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="18" letter-spacing="2">PINHEAD</text>
+</svg>

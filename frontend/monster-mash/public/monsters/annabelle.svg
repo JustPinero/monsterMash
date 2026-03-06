@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400">
+  <rect width="300" height="400" fill="#1a1c17"/>
+  <!-- Pigtails -->
+  <path d="M100 100 Q80 90 75 110 Q70 130 80 155 Q85 170 95 175" stroke="#cc0000" stroke-width="8" fill="none" opacity="0.5"/>
+  <path d="M200 100 Q220 90 225 110 Q230 130 220 155 Q215 170 205 175" stroke="#cc0000" stroke-width="8" fill="none" opacity="0.5"/>
+  <!-- Hair bows -->
+  <path d="M95 88 L85 78 L95 82 L105 72 L100 85 Z" fill="#cc0000" opacity="0.6"/>
+  <path d="M205 88 L215 78 L205 82 L195 72 L200 85 Z" fill="#cc0000" opacity="0.6"/>
+  <!-- Doll face - porcelain -->
+  <ellipse cx="150" cy="115" rx="42" ry="45" fill="#e8e0d0" opacity="0.75"/>
+  <!-- Hair framing face -->
+  <path d="M108 85 Q115 70 150 65 Q185 70 192 85" fill="#1a1c17" stroke="#cc0000" stroke-width="1"/>
+  <!-- Rosy cheeks -->
+  <circle cx="125" cy="120" r="10" fill="#cc0000" opacity="0.2"/>
+  <circle cx="175" cy="120" r="10" fill="#cc0000" opacity="0.2"/>
+  <!-- Eyes - large, doll-like, creepy -->
+  <ellipse cx="132" cy="108" rx="10" ry="10" fill="#e8e0d0"/>
+  <ellipse cx="132" cy="108" rx="7" ry="7" fill="#1a1c17"/>
+  <circle cx="130" cy="106" r="2" fill="#e8e0d0"/>
+  <ellipse cx="168" cy="108" rx="10" ry="10" fill="#e8e0d0"/>
+  <ellipse cx="168" cy="108" rx="7" ry="7" fill="#1a1c17"/>
+  <circle cx="166" cy="106" r="2" fill="#e8e0d0"/>
+  <!-- Eyelashes -->
+  <line x1="122" y1="100" x2="118" y2="95" stroke="#1a1c17" stroke-width="1.5"/>
+  <line x1="127" y1="98" x2="124" y2="93" stroke="#1a1c17" stroke-width="1.5"/>
+  <line x1="137" y1="98" x2="140" y2="93" stroke="#1a1c17" stroke-width="1.5"/>
+  <line x1="158" y1="100" x2="155" y2="95" stroke="#1a1c17" stroke-width="1.5"/>
+  <line x1="163" y1="98" x2="160" y2="93" stroke="#1a1c17" stroke-width="1.5"/>
+  <line x1="178" y1="100" x2="181" y2="95" stroke="#1a1c17" stroke-width="1.5"/>
+  <!-- Small nose -->
+  <circle cx="150" cy="122" r="3" fill="#e8e0d0" opacity="0.6"/>
+  <!-- Small red lips -->
+  <path d="M142 136 Q147 132 150 134 Q153 132 158 136 Q153 142 150 143 Q147 142 142 136" fill="#cc0000"/>
+  <!-- Porcelain crack -->
+  <path d="M165 90 Q170 100 168 115 Q172 125 170 135" stroke="#1a1c17" stroke-width="1.5" fill="none" opacity="0.4"/>
+  <path d="M168 115 Q175 118 178 115" stroke="#1a1c17" stroke-width="1" fill="none" opacity="0.3"/>
+  <!-- White dress with collar -->
+  <path d="M115 165 Q105 200 95 340 L205 340 Q195 200 185 165 Z" fill="#e8e0d0" opacity="0.15"/>
+  <!-- Peter Pan collar -->
+  <path d="M120 165 Q135 175 150 168 Q165 175 180 165" stroke="#e8e0d0" stroke-width="2" fill="#e8e0d0" opacity="0.2"/>
+  <!-- Dress details - lace lines -->
+  <path d="M100 220 Q150 215 200 220" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.12"/>
+  <path d="M98 260 Q150 255 202 260" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.12"/>
+  <path d="M96 300 Q150 295 204 300" stroke="#e8e0d0" stroke-width="1" fill="none" opacity="0.12"/>
+  <!-- Hands in lap holding something -->
+  <ellipse cx="140" cy="250" rx="10" ry="6" fill="#e8e0d0" opacity="0.25"/>
+  <ellipse cx="160" cy="250" rx="10" ry="6" fill="#e8e0d0" opacity="0.25"/>
+  <!-- Chair/rocking chair silhouette -->
+  <path d="M80 340 Q70 345 75 350 Q150 360 225 350 Q230 345 220 340" stroke="#e8e0d0" stroke-width="2" fill="none" opacity="0.15"/>
+  <text x="150" y="380" text-anchor="middle" fill="#cc0000" font-family="serif" font-size="16" letter-spacing="2">ANNABELLE</text>
+</svg>
